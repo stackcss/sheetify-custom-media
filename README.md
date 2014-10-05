@@ -73,4 +73,5 @@ wrapped in parentheses.
 [downloads-image]: http://img.shields.io/npm/dm/sheetify-custom-media.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/sheetify-custom-media
 
+[sheetify-url]: https://github.com/requireio/sheetify
 [rework-custom-media]: https://github.com/reworkcss/rework-custom-media
