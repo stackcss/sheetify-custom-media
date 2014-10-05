@@ -1,6 +1,6 @@
 {
   "name": "sheetify-custom-media",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Spec compliant CSS custom media query syntax for sheetify",
   "main": "index.js",
   "scripts": {
